@@ -15,7 +15,7 @@ This next level of data analysis is looking at temperature trends on Oahu.  W.Av
   ![](/Resources/Dec_Summary_Statistics.png)
   
   June Precipitation Results:   
-  ![](/Resources/Dec_prcp_Summary_Statistics.png) 
+  ![](/Resources/Jun_prcp_Summary_Statistics.png) 
   
   December Precipitation Results:  
    ![](/Resources/Dec_prcp_Summary_Statistics.png)
