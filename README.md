@@ -8,11 +8,17 @@ Investor W.Avy is asking for deeper data analysis into initial results on based 
 This next level of data analysis is looking at temperature trends on Oahu.  W.Avy wants to understand if a surf and ice cream sop is viable throughout the calendar year - summer months and winter months.  
 
 ## Results:
-  June Results:       
+  June Temperature Results:   
   ![](/Resources/Jun_Summary_Statistics.png)
   
-  December Results:  
+  December Temperature Results:  
   ![](/Resources/Dec_Summary_Statistics.png)
+  
+  June Precipitation Results:   
+  ![](/Resources/Dec_prcp_Summary_Statistics.png) 
+  
+  December Precipitation Results:  
+   ![](/Resources/Dec_prcp_Summary_Statistics.png)
 1. notice
 2. notice
 3. notice
