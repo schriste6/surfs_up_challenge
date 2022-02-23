@@ -10,6 +10,7 @@ This next level of data analysis is looking at temperature trends on Oahu.  W.Av
 ## Results:
   June Results:       
   ![](/Resources/Jun_Summary_Statistics.png)
+  
   December Results:  
   ![](/Resources/Dec_Summary_Statistics.png)
 1. notice
