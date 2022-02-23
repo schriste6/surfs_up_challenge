@@ -4,6 +4,8 @@ Investor W.Avy is asking for deeper data analysis into initial results on based 
 The purpose of the analysis is well defined. (3 pt)
 This next level of data analysis is looking at temperature trends on Oahu.  W.Avy wants to understand if a surf and ice cream sop is viable throughout the calendar year - summer months and winter months.  
 Results:
+![](/Resources/Jun_Summary_Statistics.png)
+![](/Resources/Dec_Summary_Statistics.png)
 
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 Summary:
