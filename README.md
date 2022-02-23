@@ -19,7 +19,7 @@ This next level of data analysis is looking at temperature trends on Oahu.  W.Av
   
   December Precipitation Results:  
    ![](/Resources/Dec_prcp_Summary_Statistics.png)
-1. Each of the summary statistics for temperature and precipitation include plenty of data to form informed decisions.
+1. Each of the summary statistics for temperature and precipitation include sufficient data to form informed decisions.
 2. Mean temperatures between Jun and Dec are 74.9 and 71.0 respectively.  A difference of 3.9 "units of measure" lower in Dec.
 3. Mean precipitation between Jun and Dec are 0.136 and 0.217 respectively.  A difference of 0.080 "units of measure" less in Jun.  
 
